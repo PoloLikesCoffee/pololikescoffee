@@ -1,3 +1,5 @@
+![A Front End Developer](/img/Screen Shot 2021-08-03 at 16.17.46.png.png)
+
 ### Hi there 👋
 
 <!--
