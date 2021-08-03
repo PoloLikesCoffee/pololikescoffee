@@ -1,6 +1,6 @@
 ![A Front End Developer](/img/banner.png)
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Nice to meet you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I’m a self-taught front-end developer who just loves coffee and writing. I’m curious by nature and love learning new things and building stuff. I’m currently looking for a position as a front-end developer. I hope you will enjoy my projects. 
 
